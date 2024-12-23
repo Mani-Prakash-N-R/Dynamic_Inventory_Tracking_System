@@ -1,6 +1,3 @@
-Here's the **Markdown** for the **Dynamic Inventory Tracking System** project. It covers every aspect of the project clearly, from installation to challenges, using a creative and structured layout:
-
-```markdown
 # 🛠️ **Dynamic Inventory Tracking System** - Web Development
 
 ## 📋 **Project Overview**
@@ -38,7 +35,7 @@ Clone the project repository to your local machine:
 ```bash
 git clone https://github.com/your-username/Dynamic_Inventory_Tracking_System.git
 cd Dynamic_Inventory_Tracking_System
-```
+
 
 ### 2️⃣ **Set Up the Backend**
 - Navigate to the backend directory:
